@@ -7,12 +7,14 @@
     "type": "git",
     "url": "git+https://github.com/vyg/styleguide.git"
   },
-  "author": "",
+  "author": "Voyage <hello@voyage.studio> (https://voyage.studio)",
   "bugs": {
     "url": "https://github.com/vyg/styleguide/issues"
   },
   "homepage": "https://github.com/vyg/styleguide#readme",
   "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "postinstall": "npm run bootstrap",
     "publish": "lerna publish",
     "test": "lerna run test",
     "lint": "eslint packages"
