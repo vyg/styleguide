@@ -1,8 +1,8 @@
-# @voyage/eslint-config
+# @voyage.studio/eslint-config
 
 ### Installation
 
-`yarn add voyage/eslint-config`
+`yarn add @voyage.studio/eslint-config`
 
 ### Usage
 
@@ -10,6 +10,6 @@ Reference the config in your `.eslintrc`
 
 ```
 {
-    extends: "@voyage/eslint-config/base"
+    extends: "@voyage.studio/eslint-config/base"
 }
 ```
