@@ -1,0 +1,20 @@
+{
+    "name": "@voyage/stylelint-config",
+    "version": "1.0.0",
+    "description": "Voyage's stylelint config",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/voyage/styleguide.git"
+    },
+    "author": "Voyage <hello@voyage.studio> (https://voyage.studio)",
+    "license": "MIT",
+    "dependencies": {
+        "stylelint-order": "2.0.0",
+        "stylelint-config-standard": "^18.2.0",
+        "stylelint-scss": "^3.1.3"
+    },
+    "peerDependencies": {
+        "stylelint": "^8.2.0 || ^9.0.0"
+    }
+  }
+  
