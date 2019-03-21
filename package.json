@@ -1,6 +1,17 @@
 {
-  "name": "@voyage/styleguides",
+  "name": "@voyage.studio/styleguides",
+  "version": "1.0.0",
+  "description": "Voyage styleguides",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyg/styleguide.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/vyg/styleguide/issues"
+  },
+  "homepage": "https://github.com/vyg/styleguide#readme",
   "scripts": {
     "publish": "lerna publish",
     "test": "lerna run test",

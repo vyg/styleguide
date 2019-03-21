@@ -1,5 +1,5 @@
 {
-    "name": "@voyage/stylelint-config",
+    "name": "@voyage.studio/stylelint-config",
     "version": "1.0.0",
     "description": "Voyage's stylelint config",
     "repository": {

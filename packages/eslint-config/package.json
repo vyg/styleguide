@@ -1,5 +1,5 @@
 {
-  "name": "@voyage/eslint-config",
+  "name": "@voyage.studio/eslint-config",
   "version": "1.0.0",
   "description": "Voyage's eslint config",
   "repository": {
