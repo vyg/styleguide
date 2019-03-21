@@ -8,6 +8,9 @@
   },
   "author": "Voyage <hello@voyage.studio> (https://voyage.studio)",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "babel-eslint": "^10.0.1",
     "eslint-config-airbnb": "^17.1.0",

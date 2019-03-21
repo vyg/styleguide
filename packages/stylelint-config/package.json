@@ -8,6 +8,9 @@
     },
     "author": "Voyage <hello@voyage.studio> (https://voyage.studio)",
     "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
     "dependencies": {
         "stylelint-config-standard": "^18.2.0",
         "stylelint-order": "2.0.0",
