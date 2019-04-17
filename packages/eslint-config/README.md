@@ -1,5 +1,7 @@
 # @voyage.studio/eslint-config
 
+![npm](https://img.shields.io/npm/v/@voyage.studio/eslint-config.svg)
+
 ### Installation
 
 `yarn add @voyage.studio/eslint-config`

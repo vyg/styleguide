@@ -1,5 +1,7 @@
 # @voyage.studio/stylelint-config
 
+![npm](https://img.shields.io/npm/v/@voyage.studio/stylelint-config.svg)
+
 ### Installation
 
 ```
