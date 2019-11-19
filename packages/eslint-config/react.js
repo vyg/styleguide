@@ -19,6 +19,9 @@ module.exports = {
     // A `.jsx` extension is not required for files containing JSX.
     'react/jsx-filename-extension': 0,
 
+    // Warn about one expression per line
+    'react/jsx-one-expression-per-line': 1,
+
     // We warn about using propTypes
     'react/prop-types': 'warn',
 
