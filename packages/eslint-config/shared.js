@@ -6,6 +6,8 @@ module.exports = {
     "class-methods-use-this": 0,
     // Ensure there's a blank line after imports block
     "import/newline-after-import": 2,
+    // Warn about default export
+    "import/prefer-default-export": 1,
     // Allow useful console logging
     'no-console': ['error', { allow: ['info', 'warn', 'error'] }],
     // Only one empty line allow
