@@ -1,0 +1,25 @@
+{
+  "name": "@voyage.studio/prettier-config",
+  "version": "1.0.0",
+  "description": "Voyage prettier config",
+  "author": "Voyage <developers@voyage.studio>",
+  "homepage": "https://github.com/vyg/styleguide/tree/master/packages/prettier-config#readme",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyg/styleguide.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/vyg/styleguide/issues"
+  },
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}

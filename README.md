@@ -5,6 +5,9 @@ This is a [monorepo](https://github.com/babel/babel/blob/master/doc/design/monor
 * [eslint-config](./packages/eslint-config/README.md)
 * [stylelint-config](./packages/stylelint-config/README.md)
 
+### Create a new package
+
+`npx lerna create project-name`
 
 ### Publishing
 
