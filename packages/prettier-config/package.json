@@ -1,6 +1,6 @@
 {
   "name": "@voyage.studio/prettier-config",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Voyage prettier config",
   "author": "Voyage <developers@voyage.studio>",
   "homepage": "https://github.com/vyg/styleguide/tree/master/packages/prettier-config#readme",
