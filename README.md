@@ -4,24 +4,29 @@ This is a [monorepo](https://github.com/babel/babel/blob/master/doc/design/monor
 
 * [eslint-config](./packages/eslint-config/README.md)
 * [stylelint-config](./packages/stylelint-config/README.md)
+* [prettier-config](./packages/prettier-config/README.md)
 
 ### Create a new package
 
-`npx lerna create project-name`
+```
+npx lerna create project-name
+```
 
 ### Publishing
 
 To publish all packages run the following
 
 ```
-yarn run publish
+npm run publish
 ```
 
 or to publish a single package
 
 ```
-yarn run publish --scope="@voyage.studio/xxxxxx
+npm run publish --scope="@voyage.studio/xxxxxx
 ```
+
+> Note: make sure you run the commands with npm. Yarn will fail and give you a hard time.
 
 
 ### Credits
