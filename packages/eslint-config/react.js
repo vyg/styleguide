@@ -40,7 +40,7 @@ module.exports = {
   settings: {
     "import/resolver": {
       node: {
-        extensions: [".js", ".json", ".d.ts", ".ts", ".scss"],
+        extensions: [".js", ".jsx", ".json", ".d.ts", ".ts", ".tsx", ".scss"],
         moduleDirectory: ["node_modules", "shared"],
       },
     },
